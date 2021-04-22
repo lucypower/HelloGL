@@ -1,0 +1,12 @@
+﻿  HelloGL.cpp
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(158,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(159,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(160,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(162,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(163,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(164,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(165,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(166,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(167,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\HelloGL\HelloGL.cpp(168,30): warning C4305: '=': truncation from 'double' to 'float'
+  HelloGL.vcxproj -> C:\Users\lcypw\OneDrive\Documents\University\Level 4 Semester 2 Programming\FOGGS\HelloGL\Debug\HelloGL.exe
